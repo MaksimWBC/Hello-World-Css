@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    diaplay: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    background-image: url(Fotolia_49271043_Subscription_Monthly_M-700x700.jpg);
+    background-repeat: repeat;
+    -webkit-background-clip: text;
+    color: transparent;
+    height: 200px;
+    width: 100%;
+    text-align: center;
+    font-size: 150px;
+    letter-spacing: 10px;
+}
